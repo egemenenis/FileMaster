@@ -1,0 +1,11 @@
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Domain\bin\Debug\net10.0\FileMaster.Domain.deps.json
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Domain\bin\Debug\net10.0\FileMaster.Domain.dll
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Domain\bin\Debug\net10.0\FileMaster.Domain.pdb
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Domain\obj\Debug\net10.0\FileMaster.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Domain\obj\Debug\net10.0\FileMaster.Domain.AssemblyInfoInputs.cache
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Domain\obj\Debug\net10.0\FileMaster.Domain.AssemblyInfo.cs
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Domain\obj\Debug\net10.0\FileMaster.Domain.csproj.CoreCompileInputs.cache
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Domain\obj\Debug\net10.0\FileMaster.Domain.dll
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Domain\obj\Debug\net10.0\refint\FileMaster.Domain.dll
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Domain\obj\Debug\net10.0\FileMaster.Domain.pdb
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Domain\obj\Debug\net10.0\ref\FileMaster.Domain.dll

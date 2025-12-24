@@ -1,0 +1,15 @@
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Application\bin\Debug\net10.0\FileMaster.Application.deps.json
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Application\bin\Debug\net10.0\FileMaster.Application.dll
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Application\bin\Debug\net10.0\FileMaster.Application.pdb
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Application\bin\Debug\net10.0\FileMaster.Domain.dll
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Application\bin\Debug\net10.0\FileMaster.Domain.pdb
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Application\obj\Debug\net10.0\FileMaster.Application.csproj.AssemblyReference.cache
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Application\obj\Debug\net10.0\FileMaster.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Application\obj\Debug\net10.0\FileMaster.Application.AssemblyInfoInputs.cache
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Application\obj\Debug\net10.0\FileMaster.Application.AssemblyInfo.cs
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Application\obj\Debug\net10.0\FileMaster.Application.csproj.CoreCompileInputs.cache
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Application\obj\Debug\net10.0\FileMast.201EF638.Up2Date
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Application\obj\Debug\net10.0\FileMaster.Application.dll
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Application\obj\Debug\net10.0\refint\FileMaster.Application.dll
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Application\obj\Debug\net10.0\FileMaster.Application.pdb
+C:\Users\egemen.ertas\Desktop\FileMaster\FileMaster.Application\obj\Debug\net10.0\ref\FileMaster.Application.dll

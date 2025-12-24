@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9R0inTJ/1vU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\egemen.ertas\\Desktop\\FileMaster\\FileMaster.Application\\FileMaster.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\egemen.ertas\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\egemen.ertas\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
